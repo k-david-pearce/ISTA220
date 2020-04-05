@@ -1,0 +1,45 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _0204_inClass
+{
+    class Staff
+    {
+        private const int hourlyRate = 15;
+        private int hWorkedOverTime;
+
+        public int HoursWorked
+        {
+            get { return hWorkedOverTime; }
+            set
+            {
+                if (value > 40)
+                {
+                    hWorkedOverTime = value - 40;
+                }
+                else hWorkedOverTime = 0;
+            }
+        }
+
+        public double CalculateOvertimePay()
+        {
+            
+            double OverTimePay;
+            OverTimePay = hWorkedOverTime * hourlyRate * 1.5;
+            if (hWorkedOverTime > 0)
+            {
+                return OverTimePay;
+            }
+            else
+                return 0;
+        }
+        public Staff(string name)
+        {
+            string staffName = name;
+            Console.WriteLine($"The staff member's name is {staffName}");
+        }
+    }
+}

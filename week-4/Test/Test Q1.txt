@@ -1,0 +1,56 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _0204_inClass
+{
+    class Program
+    {
+        
+        static void Main(string[] args)
+        {
+            Console.WriteLine("This app will accept 5 integers, sum them, and then average them.");
+            int numSum = 0;
+            double numAvg = 0;
+            try
+            {
+                Console.Write("Enter five integers separated by commas: ");
+                string userEntry = Console.ReadLine(); // receives user input as a string
+                string[] userArray = userEntry.Split(','); //separates numbers from commas into array
+                int[] numArray = { }; // creates an empty array for numbers only
+                
+                for (int item = 0; item < userArray.Length; item++) // cycles thru user array
+                {
+                    numArray[item] = int.Parse(userArray[item]); // converts number to int and enters it into numArray
+                }
+                
+
+                if (numArray.Length > 5 || numArray.Length < 5)
+                {
+                    throw new Exception(); // if user entered more than 5 numbers, throw exception
+                }
+
+                for (int i = 0; i < numArray.Length; i++) // cycles thru user array
+                {
+                    numSum += numArray[i]; // converts number to int and enters it into numArray
+                }
+                numAvg = numSum / numArray.Length;
+                Console.WriteLine("The sum is {0} and the average is {1}", numSum, numAvg);
+            }
+            catch (FormatException e)
+            {
+                Console.WriteLine("you must enter an integer not a word");
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Entry must be 5 integers");
+            }
+            finally
+            {
+                Console.WriteLine("Error handling complete");
+            }
+        }
+    }
+}

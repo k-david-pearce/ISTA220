@@ -1,0 +1,6 @@
+C:\Users\erau\Desktop\ISTA 220 C#\Week 2\EX 2C - Recursive Functions\EX2C\EX2C\bin\Debug\EX2C.exe.config
+C:\Users\erau\Desktop\ISTA 220 C#\Week 2\EX 2C - Recursive Functions\EX2C\EX2C\bin\Debug\EX2C.exe
+C:\Users\erau\Desktop\ISTA 220 C#\Week 2\EX 2C - Recursive Functions\EX2C\EX2C\bin\Debug\EX2C.pdb
+C:\Users\erau\Desktop\ISTA 220 C#\Week 2\EX 2C - Recursive Functions\EX2C\EX2C\obj\Debug\EX2C.csprojAssemblyReference.cache
+C:\Users\erau\Desktop\ISTA 220 C#\Week 2\EX 2C - Recursive Functions\EX2C\EX2C\obj\Debug\EX2C.exe
+C:\Users\erau\Desktop\ISTA 220 C#\Week 2\EX 2C - Recursive Functions\EX2C\EX2C\obj\Debug\EX2C.pdb

@@ -1,0 +1,44 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Final_Exam
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            try
+            {
+                // Q16. Ask user for int. display odd or even. if not int display error message.
+                int userInput;
+                Console.WriteLine("Enter an Integer: ");
+                userInput = checked(Convert.ToInt32(Console.ReadLine()));
+
+                if (userInput % 2 == 0)
+                {
+                    Console.WriteLine("Your integer is even");
+                }
+                else
+                {
+                    Console.WriteLine("Your integer is odd");
+                }
+            }
+
+            catch (FormatException fEx)
+            {
+                Console.WriteLine(fEx.Message);
+            }
+            catch (Exception Ex)
+            {
+                Console.WriteLine(Ex.Message);
+            }
+            finally
+            {
+                Console.WriteLine("This program has finally terminated");
+            }
+        }
+    }
+}

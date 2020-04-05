@@ -1,0 +1,57 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EX_4A_Farm
+{
+    class EX4A_Main
+    {
+        static void Main(string[] args)
+        {
+            try
+            {
+                Horse MrEd = new Horse("Mr. Ed");
+                Console.WriteLine("I am a horse and I say {0}", MrEd.speak());
+                Console.WriteLine("I am a horse and I eat {0}", MrEd.eat());
+                Horse blackBeauty = new Horse("Black Beauty");
+                Console.WriteLine($"I am a horse and I star in this movie: {blackBeauty.movie()}");
+                Console.WriteLine($"I am a horse and I produce {blackBeauty.product()}");
+
+                Cow Steak = new Cow("Steak");
+                Console.WriteLine("I am a cow and I say {0}", Steak.speak());
+                Console.WriteLine("I am a cow and I eat {0}", Steak.eat());
+                Cow Daisy = new Cow("Daisy");
+                Console.WriteLine($"I am a cow and I star in this movie: {Daisy.movie()}");
+                Console.WriteLine($"I am a cow and I produce {Daisy.product()}");
+
+                Chicken Nugget = new Chicken("Nugget");
+                Console.WriteLine("I am a chicken and I say {0}", Nugget.speak());
+                Console.WriteLine("I am a chicken and I eat {0}", Nugget.eat());
+                Chicken Rooster = new Chicken("Rooster");
+                Console.WriteLine($"I am a chicken and I star in this movie: {Rooster.movie()}");
+                Console.WriteLine($"I am a chicken and I produce {Rooster.product()}");
+
+                Rabbit stew = new Rabbit("stew");
+                Console.WriteLine("I am a rabbit and I say {0}", stew.speak());
+                Console.WriteLine("I am a rabbit and I eat {0}", stew.eat());
+                Rabbit Roger = new Rabbit("Roger");
+                Console.WriteLine($"I am a rabbit and I star in this movie: {stew.movie()}");
+                Console.WriteLine($"I am a rabbit and I produce {stew.product()}");
+            }
+            catch (NotImplementedException NIex)
+            {
+                Console.WriteLine(NIex.Message); 
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                Console.WriteLine("Error handling complete");
+            }
+        }
+    }
+}

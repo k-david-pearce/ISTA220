@@ -1,0 +1,6 @@
+C:\Users\erau\Desktop\ISTA 220 C#\Week 3\Week 3 InClass Quiz\Week 3 InClass Quiz\bin\Debug\Week 3 InClass Quiz.exe.config
+C:\Users\erau\Desktop\ISTA 220 C#\Week 3\Week 3 InClass Quiz\Week 3 InClass Quiz\bin\Debug\Week 3 InClass Quiz.exe
+C:\Users\erau\Desktop\ISTA 220 C#\Week 3\Week 3 InClass Quiz\Week 3 InClass Quiz\bin\Debug\Week 3 InClass Quiz.pdb
+C:\Users\erau\Desktop\ISTA 220 C#\Week 3\Week 3 InClass Quiz\Week 3 InClass Quiz\obj\Debug\Week 3 InClass Quiz.csprojAssemblyReference.cache
+C:\Users\erau\Desktop\ISTA 220 C#\Week 3\Week 3 InClass Quiz\Week 3 InClass Quiz\obj\Debug\Week 3 InClass Quiz.exe
+C:\Users\erau\Desktop\ISTA 220 C#\Week 3\Week 3 InClass Quiz\Week 3 InClass Quiz\obj\Debug\Week 3 InClass Quiz.pdb
