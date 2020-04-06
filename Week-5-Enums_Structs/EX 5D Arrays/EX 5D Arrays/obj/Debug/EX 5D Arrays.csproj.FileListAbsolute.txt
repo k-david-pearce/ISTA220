@@ -1,0 +1,6 @@
+C:\Users\erau\Desktop\ISTA 220 C#\Week 5\EX 5D Arrays\EX 5D Arrays\bin\Debug\EX 5D Arrays.exe.config
+C:\Users\erau\Desktop\ISTA 220 C#\Week 5\EX 5D Arrays\EX 5D Arrays\bin\Debug\EX 5D Arrays.exe
+C:\Users\erau\Desktop\ISTA 220 C#\Week 5\EX 5D Arrays\EX 5D Arrays\bin\Debug\EX 5D Arrays.pdb
+C:\Users\erau\Desktop\ISTA 220 C#\Week 5\EX 5D Arrays\EX 5D Arrays\obj\Debug\EX 5D Arrays.csprojAssemblyReference.cache
+C:\Users\erau\Desktop\ISTA 220 C#\Week 5\EX 5D Arrays\EX 5D Arrays\obj\Debug\EX 5D Arrays.exe
+C:\Users\erau\Desktop\ISTA 220 C#\Week 5\EX 5D Arrays\EX 5D Arrays\obj\Debug\EX 5D Arrays.pdb

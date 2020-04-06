@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX 2A - Calculating Averages", "EX 2A - Calculating Averages\EX 2A - Calculating Averages.csproj", "{88D47CD5-B07F-439C-B0CB-E6A2F0679DE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D47CD5-B07F-439C-B0CB-E6A2F0679DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D47CD5-B07F-439C-B0CB-E6A2F0679DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D47CD5-B07F-439C-B0CB-E6A2F0679DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D47CD5-B07F-439C-B0CB-E6A2F0679DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1C0EF24-4C32-408A-B608-2D0BD5F60D46}
+	EndGlobalSection
+EndGlobal

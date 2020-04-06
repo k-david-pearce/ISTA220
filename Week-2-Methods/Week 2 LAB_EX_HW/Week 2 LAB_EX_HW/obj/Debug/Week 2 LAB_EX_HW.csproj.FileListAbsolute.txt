@@ -1,0 +1,6 @@
+C:\Users\erau\Desktop\ISTA 220 C#\Week 2\Week 2 LAB_EX_HW\Week 2 LAB_EX_HW\bin\Debug\Week 2 LAB_EX_HW.exe.config
+C:\Users\erau\Desktop\ISTA 220 C#\Week 2\Week 2 LAB_EX_HW\Week 2 LAB_EX_HW\bin\Debug\Week 2 LAB_EX_HW.exe
+C:\Users\erau\Desktop\ISTA 220 C#\Week 2\Week 2 LAB_EX_HW\Week 2 LAB_EX_HW\bin\Debug\Week 2 LAB_EX_HW.pdb
+C:\Users\erau\Desktop\ISTA 220 C#\Week 2\Week 2 LAB_EX_HW\Week 2 LAB_EX_HW\obj\Debug\Week 2 LAB_EX_HW.csprojAssemblyReference.cache
+C:\Users\erau\Desktop\ISTA 220 C#\Week 2\Week 2 LAB_EX_HW\Week 2 LAB_EX_HW\obj\Debug\Week 2 LAB_EX_HW.exe
+C:\Users\erau\Desktop\ISTA 220 C#\Week 2\Week 2 LAB_EX_HW\Week 2 LAB_EX_HW\obj\Debug\Week 2 LAB_EX_HW.pdb

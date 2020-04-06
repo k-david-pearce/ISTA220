@@ -1,0 +1,6 @@
+C:\Users\erau\Desktop\ISTA 220 C#\Week 6\HW 6D\HW 6D\bin\Debug\HW 6D.exe.config
+C:\Users\erau\Desktop\ISTA 220 C#\Week 6\HW 6D\HW 6D\bin\Debug\HW 6D.exe
+C:\Users\erau\Desktop\ISTA 220 C#\Week 6\HW 6D\HW 6D\bin\Debug\HW 6D.pdb
+C:\Users\erau\Desktop\ISTA 220 C#\Week 6\HW 6D\HW 6D\obj\Debug\HW 6D.csprojAssemblyReference.cache
+C:\Users\erau\Desktop\ISTA 220 C#\Week 6\HW 6D\HW 6D\obj\Debug\HW 6D.exe
+C:\Users\erau\Desktop\ISTA 220 C#\Week 6\HW 6D\HW 6D\obj\Debug\HW 6D.pdb

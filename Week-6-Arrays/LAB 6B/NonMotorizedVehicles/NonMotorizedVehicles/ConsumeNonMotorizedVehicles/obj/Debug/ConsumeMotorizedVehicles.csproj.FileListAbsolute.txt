@@ -1,0 +1,13 @@
+C:\Users\erau\Documents\Visual Studio 2017\Projects\MotorizedVehicles\ConsumeMotorizedVehicles\bin\Debug\ConsumeMotorizedVehicles.exe.config
+C:\Users\erau\Documents\Visual Studio 2017\Projects\MotorizedVehicles\ConsumeMotorizedVehicles\bin\Debug\ConsumeMotorizedVehicles.exe
+C:\Users\erau\Documents\Visual Studio 2017\Projects\MotorizedVehicles\ConsumeMotorizedVehicles\bin\Debug\ConsumeMotorizedVehicles.pdb
+C:\Users\erau\Documents\Visual Studio 2017\Projects\MotorizedVehicles\ConsumeMotorizedVehicles\bin\Debug\MotorizedVehicles.dll
+C:\Users\erau\Documents\Visual Studio 2017\Projects\MotorizedVehicles\ConsumeMotorizedVehicles\bin\Debug\MotorizedVehicles.pdb
+C:\Users\erau\Documents\Visual Studio 2017\Projects\MotorizedVehicles\ConsumeMotorizedVehicles\obj\Debug\ConsumeMotorizedVehicles.csprojResolveAssemblyReference.cache
+C:\Users\erau\Documents\Visual Studio 2017\Projects\MotorizedVehicles\ConsumeMotorizedVehicles\obj\Debug\ConsumeMotorizedVehicles.csproj.CoreCompileInputs.cache
+C:\Users\erau\Documents\Visual Studio 2017\Projects\MotorizedVehicles\ConsumeMotorizedVehicles\obj\Debug\ConsumeMotorizedVehicles.exe
+C:\Users\erau\Documents\Visual Studio 2017\Projects\MotorizedVehicles\ConsumeMotorizedVehicles\obj\Debug\ConsumeMotorizedVehicles.pdb
+C:\Users\erau\Documents\Visual Studio 2017\Projects\NonMotorizedVehicles\ConsumeNonMotorizedVehicles\obj\Debug\ConsumeMotorizedVehicles.csprojResolveAssemblyReference.cache
+C:\Users\erau\Documents\Visual Studio 2017\Projects\NonMotorizedVehicles\ConsumeNonMotorizedVehicles\obj\Debug\ConsumeMotorizedVehicles.csproj.CoreCompileInputs.cache
+C:\Users\erau\Documents\Visual Studio 2017\Projects\NonMotorizedVehicles\ConsumeNonMotorizedVehicles\obj\Debug\ConsumeMotorizedVehicles.exe
+C:\Users\erau\Documents\Visual Studio 2017\Projects\NonMotorizedVehicles\ConsumeNonMotorizedVehicles\obj\Debug\ConsumeMotorizedVehicles.pdb

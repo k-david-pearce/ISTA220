@@ -1,0 +1,6 @@
+C:\Users\erau\Desktop\ISTA 220 C#\Week 6\EX 6A\EX 6A Manipulating Arrays\EX 6A Manipulating Arrays\bin\Debug\EX 6A Manipulating Arrays.exe.config
+C:\Users\erau\Desktop\ISTA 220 C#\Week 6\EX 6A\EX 6A Manipulating Arrays\EX 6A Manipulating Arrays\bin\Debug\EX 6A Manipulating Arrays.exe
+C:\Users\erau\Desktop\ISTA 220 C#\Week 6\EX 6A\EX 6A Manipulating Arrays\EX 6A Manipulating Arrays\bin\Debug\EX 6A Manipulating Arrays.pdb
+C:\Users\erau\Desktop\ISTA 220 C#\Week 6\EX 6A\EX 6A Manipulating Arrays\EX 6A Manipulating Arrays\obj\Debug\EX 6A Manipulating Arrays.csprojAssemblyReference.cache
+C:\Users\erau\Desktop\ISTA 220 C#\Week 6\EX 6A\EX 6A Manipulating Arrays\EX 6A Manipulating Arrays\obj\Debug\EX 6A Manipulating Arrays.exe
+C:\Users\erau\Desktop\ISTA 220 C#\Week 6\EX 6A\EX 6A Manipulating Arrays\EX 6A Manipulating Arrays\obj\Debug\EX 6A Manipulating Arrays.pdb

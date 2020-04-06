@@ -1,0 +1,146 @@
+Type Cast.
+int x = (int) 20.9; #20
+Int.parse cannot handle null values; throws exceptions
+Convert.Int32 will handle null; will not throw exceptions
+
+Refactoring Code.
+Create new method - highlight text, right click, select create code.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//calculate tuition over a five year period. 
+//Tuition starts at $6000 and each year it increases by 2%. 
+//display to the screen the following: For year n your tuition will be x
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+static void Main(string[] args)
+        {
+            double tuition = 6000;
+            double rate = 0.02;
+
+            for (int i = 0; i < 5; i++)
+            {
+                double inflation = tuition * rate;
+                tuition += inflation;
+                Console.WriteLine($"For year {i} your tuition will be {tuition:C}.");
+            }
+        }
+
++++++++++++++++++++Compound Interest Formula++++++++++++++++++++
+
+        static void Main(string[] args)
+        {
+            double tuition = 6000;
+            double increase = 0.02;
+            for (int i = 0; i < 6; i++)
+            {
+                double increase_compound = Math.Pow(1 + increase, i);
+                double tuition_compound = tuition * increase_compound;
+                Console.WriteLine(tuition_compound);
+            }
+        }
+    }
+}
+
+// a = p * (1 + r) ^ t
+
++++++++++++++++++++Not Correct++++++++++++++++++++
+
+static void Main(string[] args)
+        {
+            double tuition = 6000;
+            double increase = 0.02;
+            for (int i = 0; i < 6; i++)
+            {
+                double increase_compound = Math.Pow(increase, i);
+                double tuition_compound = tuition + tuition * increase_compound;
+                // Does not work: Console.WriteLine("Year {0) tuition is ${1}", i, tuition_compound);
+		Console.WriteLine(tuition_compound);
+            }
+        }
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//ask the user for the number of feet to be converted into inches.
+//Calculate the number of inches.
+//Display to the user: n feet is x inches
+
+public static double feetToInch(double ft)
+        {
+            double inch = ft * 12;
+           
+            return inch;
+        }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter number of feet to be converted to inches");
+            double numFeet = Convert.ToDouble(Console.ReadLine());
+            
+            Console.WriteLine("{0} feet is {1} inches", numFeet, feetToInch(numFeet));
+        }
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//find the greater of two number entered by the user.
+//Display to the screen: n greater than x
+
+public static void compareNums(double a, double b)
+        {
+            if (a > b)
+            {
+                Console.WriteLine("{0} is greater than {1}", a, b);
+            }
+            else
+            {
+                Console.WriteLine("{0} is greater than {1}", b, a);
+            }         
+
+        }
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter first number");
+            double numOne = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter second number");
+            double numTwo = Convert.ToDouble(Console.ReadLine());
+
+            compareNums(numOne, numTwo);
+
+        }
+
++++++++++++++++++++++++ RETURN RESULT TO MAIN++++++++++++++++++
+
+public static double compareNums(double a, double b)
+        {
+            if (a > b)
+            {
+                return a;
+            }
+            else
+            {
+                return b;
+            }
+
+        }
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter first number");
+            double numOne = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter second number");
+            double numTwo = Convert.ToDouble(Console.ReadLine());
+
+            double small;
+            if (numOne < compareNums(numTwo, numOne))
+            {
+                small = numOne;
+            }
+            else
+            {
+                small = numTwo;
+            }                        
+            Console.WriteLine("{0} is greater than {1}", compareNums(numOne, numTwo), small);
+        }
+
+

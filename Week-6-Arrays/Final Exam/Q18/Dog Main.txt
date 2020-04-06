@@ -1,0 +1,20 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Final_Exam
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Q18. Create a class called Dog. In main, creat object then print out name, breed, age, color.
+
+            Dog d1 = new Dog("Fido", "Lab", 3, "Black");
+            d1.makeString();
+
+        }
+    }
+}

@@ -1,0 +1,24 @@
+Class demoRefParameter
+
+++++++++++++++++++++++++++++
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Wk_4_In_Class_Quiz
+{
+    class demoRefParameter
+    {
+        public void passByReference(List<int> b)  // create method called passByRefence with parameter type list and variable b
+        {
+            b[0] = 5;  // initialize first element of list b to equal 5
+           
+            Console.WriteLine("b[0] inside method = {0}", b[0]);  // display output of first element of list b
+        }
+        
+
+    }
+}
