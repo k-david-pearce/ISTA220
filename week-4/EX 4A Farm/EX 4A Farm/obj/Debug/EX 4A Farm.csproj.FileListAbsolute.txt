@@ -1,6 +1,0 @@
-C:\Users\erau\Desktop\ISTA 220 C#\Week 4\EX 4A Farm\EX 4A Farm\obj\Debug\EX 4A Farm.csprojAssemblyReference.cache
-C:\Users\erau\Desktop\ISTA 220 C#\Week 4\EX 4A Farm\EX 4A Farm\bin\Debug\EX 4A Farm.exe.config
-C:\Users\erau\Desktop\ISTA 220 C#\Week 4\EX 4A Farm\EX 4A Farm\bin\Debug\EX 4A Farm.exe
-C:\Users\erau\Desktop\ISTA 220 C#\Week 4\EX 4A Farm\EX 4A Farm\bin\Debug\EX 4A Farm.pdb
-C:\Users\erau\Desktop\ISTA 220 C#\Week 4\EX 4A Farm\EX 4A Farm\obj\Debug\EX 4A Farm.exe
-C:\Users\erau\Desktop\ISTA 220 C#\Week 4\EX 4A Farm\EX 4A Farm\obj\Debug\EX 4A Farm.pdb

@@ -1,7 +1,0 @@
-Q1: Create a class called demoRefParameter. Within the class, create a method called passByReference with list<int> and b as passing par. 
-Within the method, initialize b value of 0th index to 5 (b[0] = 5) and write console output displaying b[0] value.
-In the main method, initialize your List as follows:
-
-List<int> b = new List<int> { 11, 21, 31, 41, 51 }; 
-
-Now, in your main program, demonstrate b[0] before method, inside the method, after the method. Does your result make sense? Is this result what you expected? Explain your reasoning. 

@@ -1,6 +1,0 @@
-C:\Users\erau\Desktop\ISTA 220 C#\Week 3\EX 3D MathExceptionsOverflow\EX 3D MathExceptionsOverflow\bin\Debug\EX 3D MathExceptionsOverflow.exe.config
-C:\Users\erau\Desktop\ISTA 220 C#\Week 3\EX 3D MathExceptionsOverflow\EX 3D MathExceptionsOverflow\bin\Debug\EX 3D MathExceptionsOverflow.exe
-C:\Users\erau\Desktop\ISTA 220 C#\Week 3\EX 3D MathExceptionsOverflow\EX 3D MathExceptionsOverflow\bin\Debug\EX 3D MathExceptionsOverflow.pdb
-C:\Users\erau\Desktop\ISTA 220 C#\Week 3\EX 3D MathExceptionsOverflow\EX 3D MathExceptionsOverflow\obj\Debug\EX 3D MathExceptionsOverflow.csprojAssemblyReference.cache
-C:\Users\erau\Desktop\ISTA 220 C#\Week 3\EX 3D MathExceptionsOverflow\EX 3D MathExceptionsOverflow\obj\Debug\EX 3D MathExceptionsOverflow.exe
-C:\Users\erau\Desktop\ISTA 220 C#\Week 3\EX 3D MathExceptionsOverflow\EX 3D MathExceptionsOverflow\obj\Debug\EX 3D MathExceptionsOverflow.pdb

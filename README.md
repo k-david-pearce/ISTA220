@@ -1,1 +1,2 @@
 # ISTA220
+An introduction to applications programming in C# including a coverage of the Visual Studio development environment. Key topics include C# syntax, variables, types, expressions, classes, and interfaces. This course is part of a set of five related ISTA courses that make up the Cloud Applications Developer specialization's technical content for Microsoft Software and Systems Academy (MSSA).
